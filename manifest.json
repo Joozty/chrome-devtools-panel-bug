@@ -1,0 +1,8 @@
+{
+	"manifest_version": 2,
+	"name": "test",
+	"description": "test",
+	"version": "0.0.0",
+	"devtools_page": "page.html",
+	"permissions": ["http://*/*", "https://*/*", "tabs" ]
+}
